@@ -1,0 +1,29 @@
+Assignment 2.4 - Links, Paths and a Multi-Page Website
+Create a five-page site with reliable navigation and demonstrate absolute, relative, fragment, external, and email links.
+
+Create this exact structure:
+my-website/
+index.html
+about.html
+projects.html
+contact.html
+pages/
+services.html
+
+Every page must contain semantic navigation linking to Home, About, Services, Projects, and Contact.
+
+Your site must demonstrate:
+- Relative links between files in the same folder.
+- A link from a top-level page into pages/services.html.
+- A correct relative link from pages/services.html back to index.html.
+- One external HTTPS link with meaningful text.
+- One email link.
+- One fragment link to a section on the same page.
+- No broken links and no "click here" link text.
+
+Submit:
+1. A public repository or folder link containing the complete site.
+2. A browser screenshot of every page.
+3. A link/path table naming every link, its destination, whether it is relative or absolute, and why it works from that file.
+
+This is a compulsory competency gate. The navigation, cross-folder relative path, and return path must all work; reaching 70 points without those capabilities is not sufficient for approval.
